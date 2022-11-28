@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Mi name is Sergio and I love Data Science!!
 - 🌱 I’m currently learning Data Science at **Assembler Institute of Technology** (8hs/day)
-- 🔭 I’m currently open to work
+- 🔭 I’m open to work (available from May 2023)
 - 📫 How to reach me: ssalvas10@gmail.com
 
 <!--
