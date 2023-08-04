@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Mi name is Sergio and I love Data Science!!
+### Mi name is Sergio and I love Data!!
 - 🌱 I finished a full-time master in Data Science  at **Assembler Institute of Technology** (8hs/day), 7 months.
 - 🔭 I’m open to work (available from May 2023)
 - 📫 How to reach me: ssalvas10@gmail.com
