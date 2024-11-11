@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Mi name is Sergio and I love Data!!
-- 🌱 I am growing as a Data Engineer in the best family of the world.
-- 📫 How to reach me: ssalvas10@gmail.com
+- 🌱 I am growing as a Quantum Consultant at Ayesa - Ibermatica Foundation.
+- 📫 How to reach me: ssalvadors@ayesa.com
 
 <!--
 **Sersal10/sersal10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
